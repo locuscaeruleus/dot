@@ -1,0 +1,69 @@
+{
+// QUICKCONFIG
+    "zenMode.fullScreen": true,    
+    "editor.lineNumbers": "on",
+    "diffEditor.renderSideBySide": true,
+    "diffEditor.renderIndicators": true,
+
+// THEME
+    "workbench.colorTheme": "GitHub Clean White",
+    "workbench.iconTheme": "vs-seti",    
+    "workbench.startupEditor": "welcomePage",
+    "workbench.colorCustomizations": {},
+
+ // FONTS
+    "editor.fontSize": 18,
+    "editor.fontFamily": "Monaco",
+    "workbench.fontAliasing": "antialiased",    "editor.fontWeight": "normal",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 0,
+    "editor.letterSpacing": 0,
+    
+    
+//EDITOR
+    "editor.minimap.enabled": false,    
+    "editor.cursorStyle": "block",    
+    "editor.cursorBlinking": "phase",
+    "editor.tabSize": 4,
+    "editor.wordWrap": "on",
+    "editor.renderIndentGuides": true,
+    "editor.codeLens": true,
+    "editor.folding": true,
+    "editor.showFoldingControls": "mouseover",
+    "editor.trimAutoWhitespace": true,
+    "editor.dragAndDrop": false,
+
+// AUTOCOMPLETITION // EDITOR
+    "editor.quickSuggestionsDelay": 0,
+    "editor.formatOnPaste": true,
+    "editor.parameterHints": true,
+    "editor.autoIndent": true,
+    "editor.acceptSuggestionOnEnter": false,
+    "editor.snippetSuggestions": "inline",
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.emptySelectionClipboard": true,
+    "editor.wordBasedSuggestions": true,
+    //check
+    "editor.tabCompletion": true,    
+    
+// GIT CONFIG
+    "git.enabled": true,
+    "git.autofetch": true,
+    "git.confirmSync": true,
+    "openInGitHub.gitHubDomain": "https://github.com/locuscaeruleus",
+    "openInGitHub.requireSelectionForLines": false, 
+    "openInGitHub.providerType": "github",
+
+// PYTHON
+    "python.pythonPath": "/Users/neurobox/anaconda/bin/python"
+    //"python.promptToInstallJupyter": "true",
+    //"python.venvPath": "",
+    // "python.envFile": "${workspaceRoot}/anaconda/envs",
+    // "python.linting.enabled": true,
+    // "python.workspaceSymbols.rebuildOnFileSave": true,
+    // "python.jupyter.defaultKernel": "",
+    
+    
+    
+    
+}
