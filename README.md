@@ -1,5 +1,7 @@
-### My Dotfiles
+# My Dotfiles
 
-# --- List ---
+##--- List --- ##
 
-- VBCode
+    - VBCode
+    - Sublime-Text
+    - Vim
